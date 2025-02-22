@@ -1,0 +1,53 @@
+.fundo {
+    background-color: #512d6d;
+}
+
+.titulo {
+    color: lightpink;
+    text-align: center;
+    font-size: 70px;
+    font-family: cursive;
+}
+
+.imagem {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width: 400px;
+}
+
+.titulo-dois {
+    color: lightpink;
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.lista-um {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 8px;
+}
+
+.titulo-tres {
+    color: lightpink;
+    font-size: 40px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.lista-dois {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 8px;
+}
+
+.botao {
+    margin-left: 650px;
+}

@@ -1,19 +1,27 @@
 .corpo {
-    background-color: lightseagreen;
+    background-color: #512d6d;
 }
 
 .titulo {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: brown;
-    background-color: yellowgreen;
-    font-weight: bolder;
-    font-size: 60px;
+    color: lightpink;
     text-align: center;
+    font-size: 70px;
+    font-family: cursive;
+}
+
+.kirby {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width: 400px;
 }
 
 .links {
-    background-color: yellowgreen;
-    font-size: 40px;
-    text-align: center;
-    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: lightpink;
+    padding: 8px;
+    margin-left: 500px;
+    margin-right: 500px;
 }
